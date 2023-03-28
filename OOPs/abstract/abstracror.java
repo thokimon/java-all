@@ -7,4 +7,5 @@ abstract class abstracror{
     abstract void mul();
     abstract void div();
     }
+    adarsh
     
